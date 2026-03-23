@@ -2,7 +2,8 @@
 
 ### 🚀 Bilgisayar Mühendisliği Öğrencisi & Full-Stack Geliştirici
 
-Bilgisayar Mühendisliği **4. sınıf öğrencisi** olarak **.NET**, **Node.js** ve **React** ekosistemlerine odaklanıyorum. Akademik bilgimi Ar-Ge stajları ve uçtan uca projelerle birleştiriyor; aynı zamanda takım arkadaşlarımla birlikte yenilikçi teknoloji çözümleri üretecek bir girişim üzerine çalışıyorum.
+Bilgisayar Mühendisliği 4. sınıf öğrencisi olarak .NET, Node.js ve React.js ekosistemlerine odaklanıyorum. Akademik bilgimi, Ar-Ge stajları ve full-stack
+projelerle birleştirerek karmaşık problemlere ölçeklenebilir çözümler üretmeyi hedefleyen, çözüm odaklı bir mühendis adayıyım.
 
 ---
 
