@@ -36,13 +36,7 @@ Bilgisayar Mühendisliği **4. sınıf öğrencisi** olarak **.NET**, **Node.js*
 
 * **Pediatric Rash Analysis:** Node.js ve React Native ile geliştirilmiş yapay zeka tabanlı klinik karar destek sistemi.
 * **MiniERP Sistemi:** .NET Core ve MSSQL ile kurgulanmış, ölçeklenebilir ve katmanlı mimariye sahip backend çözümü.
-* **8-Bit ALU Tasarımı:** Donanım mimarisi prensipleriyle optimize edilmiş, kapı seviyesinde lojik tasarım projesi.
-
----
-
-### 🎨 Mühendisliğin Ötesinde
-
-Yazılım geliştirme süreçlerinin dışında, **3D Tasarım ve Üretim** ile ilgileniyor ve **YAE3D** markası çatısı altında modelleme/baskı süreçlerini yönetiyorum. Kodlarla inşa ettiğim yapıları, dijital içerik üretimi ve fiziksel tasarımlarla desteklemeyi seviyorum.
+* **Modern RESTful API Mimarisi:** C# ve ASP.NET Core kullanılarak geliştirilmiş; JWT yetkilendirme, Docker konteynerizasyonu ve Nginx yapılandırması içeren güvenli backend mimarisi.
 
 ---
 
