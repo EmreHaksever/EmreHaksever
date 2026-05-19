@@ -22,16 +22,7 @@ projelerle birleştirerek karmaşık problemlere ölçeklenebilir çözümler ü
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📈 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmreHaksever&show_icons=true&theme=tokyonight&hide_border=true" alt="İstatistikler" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreHaksever&layout=compact&theme=tokyonight&hide_border=true" alt="Diller" height="165" />
-</div>
-
----
 
 ### 🌟 Öne Çıkan Projeler
 
