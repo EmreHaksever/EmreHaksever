@@ -22,7 +22,7 @@ projelerle birleştirerek karmaşık problemlere ölçeklenebilir çözümler ü
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
+---
 
 ### 🌟 Öne Çıkan Projeler
 
